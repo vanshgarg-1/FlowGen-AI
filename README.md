@@ -1,7 +1,7 @@
 
 # FlowGen AI: Queries to Actionable Steps—Effortlessly! 🚀
 
-Live Link : https://flowgen-ai.streamlit.app/
+- [Live Link](https://flowgen-ai.streamlit.app/)  & [Blog Link](https://vanshgarg.framer.website/works/flowgen-ai)
 
 # Problem Statement
 
